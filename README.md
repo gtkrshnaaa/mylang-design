@@ -134,7 +134,6 @@
          return "Hello, " + name
      }
      
-     export let pi float = 3.14
      ```
 
 ### 10. **Sintaks Ekspresi**
